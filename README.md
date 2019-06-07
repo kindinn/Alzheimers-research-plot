@@ -1,0 +1,12 @@
+# Alzheimers-research-plot
+Simple infographic showing Alzheimer's research progression
+
+The ultimate cause of Alzheimer’s disease (AD) is still not completely understood, however research has been steadily progressing since the initial classification in the early 20th century. The plot shows the number of yearly publications released for each of the three main causative hypothesises for the disease since 1950. The data for this is taken from PubMed, using a keyword search for each of the three hypotheses, with Alzheimer’s as the main search term. 
+
+Along with this the plot also displays many of the genes associated with the disease. Although the list is not exhaustive it includes most of the better documented genes. The total number of publications for each gene is shown in the legend, and the year of initial publication/discovery can be seen from the plot. The plot also attempts to demonstrate the risk and prevalence of the different genes. The risk shown displays the odds-ratio associated with carrying the allele of a given gene which confers to greatest risk to developing Alzheimer’s. The prevalence is simply the assumed proportion of population carrying the gene. I have refrained from adding any specific numbers to these indicators, and instead kept them relative to each other. This is because these numbers are taken from only two sources (see below), and for each gene risk and prevalence can vary between different publications depending on which population the study is looking at. That being said the plot is mainly to demonstrate how rare genes, typically associated with familial AD, such as (app and presnilin-1/2) infer greater risk than the more common genetic alleles. It also shows how around 2010, genome-wide association studies (GWAS) were taking off, as indicated by the multiple genes discovered around that time. 
+
+The animation was added to give the infographic some flair, but also adds some temporal information to the number of yearly publications for the genes, which is lacking from the final figure. While the amount of research is ever increasing, researchers are still torn between the different hypotheses, some arguing it’s a combination, some saying it must be something different entirely, but hopefully the future will offer more answers. 
+
+References used for risk and prevalence data:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3867586/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3174086/
